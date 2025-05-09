@@ -19,5 +19,5 @@ This project explores COVID-19 vaccination trends globally using real-world data
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vaccination-analysis.git
-   cd vaccination-analysis
+   git clone [https://github.com/Patrick-mwanza/covid-19-analysis-project]
+   cd covid-19-analysis-project
